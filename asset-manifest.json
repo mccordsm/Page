@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mccordsm/Page.git/static/css/main.fd94dd52.chunk.css",
+    "main.js": "/mccordsm/Page.git/static/js/main.f7f0a103.chunk.js",
+    "main.js.map": "/mccordsm/Page.git/static/js/main.f7f0a103.chunk.js.map",
+    "runtime-main.js": "/mccordsm/Page.git/static/js/runtime-main.5e6cf692.js",
+    "runtime-main.js.map": "/mccordsm/Page.git/static/js/runtime-main.5e6cf692.js.map",
+    "static/css/2.04607c25.chunk.css": "/mccordsm/Page.git/static/css/2.04607c25.chunk.css",
+    "static/js/2.ceb4e8dc.chunk.js": "/mccordsm/Page.git/static/js/2.ceb4e8dc.chunk.js",
+    "static/js/2.ceb4e8dc.chunk.js.map": "/mccordsm/Page.git/static/js/2.ceb4e8dc.chunk.js.map",
+    "index.html": "/mccordsm/Page.git/index.html",
+    "static/css/2.04607c25.chunk.css.map": "/mccordsm/Page.git/static/css/2.04607c25.chunk.css.map",
+    "static/css/main.fd94dd52.chunk.css.map": "/mccordsm/Page.git/static/css/main.fd94dd52.chunk.css.map",
+    "static/js/2.ceb4e8dc.chunk.js.LICENSE.txt": "/mccordsm/Page.git/static/js/2.ceb4e8dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6cf692.js",
+    "static/css/2.04607c25.chunk.css",
+    "static/js/2.ceb4e8dc.chunk.js",
+    "static/css/main.fd94dd52.chunk.css",
+    "static/js/main.f7f0a103.chunk.js"
+  ]
+}
